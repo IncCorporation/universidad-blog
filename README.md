@@ -1,2 +1,18 @@
-# universidad-blog
-Esta es una plataforma para incentivar las comunidades dentro de la universidad
+Blog Universidad
+
+[Descripción del proyecto]
+
+[Instalación]
+-Requisitos
+-Versión
+-Encargados del proyecto
+
+[Uso]
+
+[Documentación]
+
+
+[Roadmap]
+
+
+[Licencia]
